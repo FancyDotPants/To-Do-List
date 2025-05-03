@@ -1,0 +1,34 @@
+{
+  "projects": [
+    {
+      "id": "1",
+      "title": "Make a Marketing Email.",
+      "details": "Lorem ipsum",
+      "complete": false
+    },
+    {
+      "id": "2",
+      "title": "Add new features to banner.",
+      "details": "Lorem ipsum",
+      "complete": true
+    },
+    {
+      "id": "3",
+      "title": "Add new items.",
+      "details": "Lorem ipsum",
+      "complete": false
+    },
+    {
+      "id": "4",
+      "title": "Fix the bugs in the forms.",
+      "details": "Lorem ipsum",
+      "complete": true
+    },
+    {
+      "id": "5",
+      "title": "make a new Footer NOW!",
+      "details": "make a reactive footer ",
+      "complete": false
+    }
+  ]
+}
